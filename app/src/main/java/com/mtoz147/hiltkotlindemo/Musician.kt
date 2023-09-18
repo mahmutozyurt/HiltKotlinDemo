@@ -1,4 +1,7 @@
 package com.mtoz147.hiltkotlindemo
 
-class Musician {
+class Musician(instrument: Instrument,band: Band) {
+    fun sing(){
+        println("working...")
+    }
 }
