@@ -1,4 +1,6 @@
 package com.mtoz147.hiltkotlindemo
 
-class Instrument() {
+import javax.inject.Inject
+
+class Instrument @Inject constructor() {
 }

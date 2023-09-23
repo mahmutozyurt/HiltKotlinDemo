@@ -1,4 +1,6 @@
 package com.mtoz147.hiltkotlindemo
 
-class Band() {
+import javax.inject.Inject
+
+class Band @Inject constructor() {
 }
