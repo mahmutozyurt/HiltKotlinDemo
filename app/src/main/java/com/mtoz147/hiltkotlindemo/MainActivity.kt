@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
         james.sing()*/
         lars.sing()
         println(myClass.myFunction())
+        println(myClass.secondFunction())
     }
 
 }
